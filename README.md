@@ -1,2 +1,2 @@
 # tunameatball-kokoa
-kokoa clone project
+kokoa clone project with NomardCoder 
